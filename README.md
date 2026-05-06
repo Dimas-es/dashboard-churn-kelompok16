@@ -1,4 +1,30 @@
-# Dashboard Prediksi Customer Churn — Kelompok 16
+# PREDIKSI CUSTOMER CHURN PADA PERUSAHAAN TELEKOMUNIKASI MENGGUNAKAN RANDOM FOREST DAN LOGISTIC REGRESSION UNTUK MENINGKATKAN RETENSI PELANGGAN
+
+## PROYEK
+
+Disusun untuk memenuhi Ujian Akhir Semester pada mata kuliah **Sains Data**  
+**Dosen Pengampu:** Irani Hoeronis, S.Si., M.T.
+
+## DISUSUN OLEH
+
+**KELOMPOK 16**  
+**KELAS C**
+
+- Reva Riyantika — NPM. 237006037
+- Haifa Celeryn — NPM. 237006075
+- Rafli Putra Nur Syabani — NPM. 237006083
+- Dimas Setiawan — NPM. 237006090
+- Muhammad Rai Akmal — NPM. 237006092
+- Najwa Syauha Naajil Sofwan — NPM. 237006151
+
+## Identitas Institusi
+
+PROGRAM STUDI INFORMATIKA  
+FAKULTAS TEKNIK  
+UNIVERSITAS SILIWANGI  
+2026
+
+---
 
 Dashboard interaktif untuk menganalisis dan memprediksi **customer churn** pada perusahaan telekomunikasi menggunakan pendekatan **Exploratory Data Analysis (EDA)** dan **Machine Learning**.
 
@@ -76,6 +102,6 @@ Dashboard akan terbuka di `http://localhost:8501`.
 3. Layanan **Online Security** dan **Tech Support** memberikan efek protektif signifikan terhadap churn
 4. **Electronic check** sebagai metode pembayaran memiliki churn rate tertinggi (45.3%)
 
-## Kelompok 16 — Sains Data
+## Penutup
 
-Prediksi Customer Churn pada Perusahaan Telekomunikasi Menggunakan Random Forest dan Logistic Regression untuk Meningkatkan Retensi Pelanggan.
+Repositori ini merupakan implementasi proyek kelompok untuk menganalisis faktor churn, membandingkan performa model **Random Forest** dan **Logistic Regression**, serta memberikan rekomendasi strategi retensi pelanggan berbasis data.
